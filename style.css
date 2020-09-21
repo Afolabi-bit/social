@@ -201,7 +201,7 @@ html {
 
 .attribution {
   width: fit-content;
-  margin: 60px auto 0;
+  margin: 60px auto 20px;
   justify-self: end;
   font-size: 12px;
   font-weight: 500;
